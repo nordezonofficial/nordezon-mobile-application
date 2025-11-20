@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "419107861981",
+    "project_id": "iq-booster-64102",
+    "storage_bucket": "iq-booster-64102.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419107861981:android:dfaf8153f22a4fe560f234",
+        "android_client_info": {
+          "package_name": "com.faizankhandev.iqbooster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAlxrtiHFlRTXlt8FfP42QLmsJJd8obU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      },
+      "admob_app_id": "ca-app-pub-5161503399626467~1318261887"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419107861981:android:083b3c98ac81e02d60f234",
+        "android_client_info": {
+          "package_name": "com.farokht.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAlxrtiHFlRTXlt8FfP42QLmsJJd8obU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419107861981:android:8c075179a7ddb1bb60f234",
+        "android_client_info": {
+          "package_name": "com.iqbattle.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAlxrtiHFlRTXlt8FfP42QLmsJJd8obU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
