@@ -4,7 +4,7 @@
     "slug": "nordezon",
     "version": "1.0.0",
     "orientation": "portrait",
-    "package": "com.nordezon.shopper",
+    "package": "com.nordezon.brandcenter",
     "icon": "./assets/images/Elogo.png",
     "scheme": "nordezon",
     "userInterfaceStyle": "automatic",
@@ -14,6 +14,7 @@
     },
     "android": {
       "softwareKeyboardLayoutMode": "pan",
+      "googleServicesFile": "./google-services.json",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/images/logo/ic_launcher_foreground.png",
@@ -26,7 +27,7 @@
         "android.permission.NOTIFICATIONS",
         "android.permission.RECORD_AUDIO"
       ],
-      "package": "com.nordezon.shopper",
+      "package": "com.nordezon.brands",
     },
     "web": {
       "output": "static",
